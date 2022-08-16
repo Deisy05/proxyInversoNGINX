@@ -1,4 +1,4 @@
-# proxyInversoNGINX
+# Proxy Inverso con NGINX
 Instrucciones para llevar  a cabo el despliegue de un ambiente computacional distribuido.
 
 
