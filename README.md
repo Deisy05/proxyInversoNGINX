@@ -117,6 +117,8 @@ para ellos.
 
 En el browser del anfitrion, digitar las direcciones: una que apunta al proxy 'localHost' y las otras que apuntan a las maquinas creadas
 
+##[INFORME EN DOCS](https://docs.google.com/document/d/1srvRX5XZbOKxjZqNLj2Binf-tawy8Fv8IdgrVIZa8s0/edit?usp=sharing)
+
 
 ## **INTEGRANTES**
 Borja Muñoz Carlos Andres - borja.carlos@correounivalle.edu.co <br />
