@@ -5,9 +5,13 @@ Instrucciones para llevar  a cabo el despliegue de un ambiente computacional dis
 **Requisitos**
 
 >Tú PC
+>
 >Un web browser o navegador
+>
 >Un proxy inverso (IP: 192.168.28.30 y ejecutándose sobre una máquina virtual)
+>
 >Un aplicativo ejecutado con la herramienta ‘docker-compose’ (IP: 192.168.28.31 y ejecutándose sobre una máquina virtual)
+>
 >Un servidor web Apache (IP: 192.168.28.32 y ejecutándose sobre una máquina virtual)
 
 
@@ -104,7 +108,8 @@ por ultimo en la sección de location /{} indica las rutas deseadas y en proxy_p
 ##Crear una red local
 
 Con esa red local vamos a conectar la máquinas virtuales y al anfitrion (la maquina física)
-para ellos 
+para ellos.
+
 [Guia para crear la red local solo anfitrión](https://carleton.ca/scs/2019/creating-a-new-host-only-adapter-in-virtualbox/)
 
 
